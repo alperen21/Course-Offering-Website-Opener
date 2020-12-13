@@ -1,5 +1,4 @@
 from selenium import webdriver
-import random
 import time
 
 term = input("enter the term: ")
